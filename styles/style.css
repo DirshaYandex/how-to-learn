@@ -244,7 +244,7 @@
   overflow: hidden;
 }
 
-.section__title {
+.kaufman__section-title {
   font-size: 60px;
   width: 60%;
   line-height: 69px;
@@ -256,7 +256,7 @@
   z-index: 999;
 }
 
-.section__subtitle {
+.kaufman__section-subtitle {
   font-size: 24px;
   width: 60%;
   line-height: 34px;
@@ -277,9 +277,13 @@
   width: 877px;
 }
 
-.table__theme_dark {
+.table_theme_dark {
   margin-bottom: 90px;
   z-index: 999;
+}
+
+.table__heading_theme_dark {
+  margin: 0 0 20px 0;
 }
 
 .table__cell_theme_dark {
