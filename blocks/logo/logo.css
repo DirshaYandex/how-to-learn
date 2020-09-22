@@ -3,9 +3,3 @@
   height: 32px;
   z-index: 999;
 }
-
-.logo_place_header {
-  position: absolute;
-  left: 64px;
-  top: 30px;
-}
